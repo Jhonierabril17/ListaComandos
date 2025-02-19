@@ -6,5 +6,6 @@ public class Main {
         System.out.printf("Hello and welcome!\n");
         System.out.printf("proyecto nuevo");
         System.out.printf("Nuevo cambio");
+        System.out.printf("Nuevo cambio 2");
     }
 }
